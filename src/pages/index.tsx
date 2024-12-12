@@ -92,7 +92,7 @@ function Home() {
           // eslint-disable-next-line react/jsx-no-bind
           onClick={resetTasks}
         >
-          Reset?
+          Reset? test
         </Button>
       </Flex>
 
